@@ -2,3 +2,7 @@ node_modules/
 out/
 .env
 .DS_Store
+
+!assets/logo.svg
+!assets/
+!assets/**

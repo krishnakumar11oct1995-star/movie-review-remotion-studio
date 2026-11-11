@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="movie-review-remotion-studio Logo" width="160" />
+</p>
+
 # Remotion video
 
 <p align="center">
